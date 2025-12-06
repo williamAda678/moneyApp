@@ -1,8 +1,15 @@
+# Build folders
 bin/
 obj/
+
+# Database
 *.db
 *.sqlite
+
+# User-specific files
 *.user
 *.vs
 .vscode/
+
+# Secrets
 appsettings.Development.json
